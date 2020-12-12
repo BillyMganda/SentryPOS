@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentryPOS", "SentryPOS\SentryPOS.csproj", "{7A8665A0-4B4F-4D62-8F3A-BB86E15564AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8665A0-4B4F-4D62-8F3A-BB86E15564AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8665A0-4B4F-4D62-8F3A-BB86E15564AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8665A0-4B4F-4D62-8F3A-BB86E15564AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8665A0-4B4F-4D62-8F3A-BB86E15564AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97B317A9-713B-4440-9D49-E20C040DDCFE}
+	EndGlobalSection
+EndGlobal
